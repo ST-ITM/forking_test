@@ -5,3 +5,4 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 
 This are the comments of 2025 OSS students:
 
+* Good luck on 2026 and wish you the best. 
