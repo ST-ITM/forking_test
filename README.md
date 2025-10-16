@@ -5,3 +5,4 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 
 This are the comments of 2025 OSS students:
 
+집에가고싶어도 참아
