@@ -5,4 +5,7 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 
 This are the comments of 2025 OSS students:
 
-* Good luck on 2026 and wish you the best. 
+- Good luck on 2026 and wish you the best. 
+- I am so hungry
+- I want to eat chocolate cake
+- It's Friday again
