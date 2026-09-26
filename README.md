@@ -6,3 +6,4 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 This are the comments of 2025 OSS students:
 * It is useful to learn how to use git and github
 
+It's Friday again
